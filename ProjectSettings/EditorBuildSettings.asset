@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3e65c5f8c7db3c94cbd4eed207021c03
+  - enabled: 1
+    path: "Assets/Scenes/Yap\u0131mc\u0131.unity"
+    guid: 3d30fb9c9ee68f34ab12d1f2828164be
+  - enabled: 1
+    path: Assets/Scenes/settigs.unity
+    guid: 593853dcfd8b18f4189e8bc7edfe3072
+  - enabled: 1
+    path: Assets/Scenes/2.etap.unity
+    guid: 3c07e5c37c44add4e86372621396c0c7
+  - enabled: 1
+    path: Assets/Scenes/bulmaca.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
