@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/2.etap.unity
+- path: Assets/Scenes/Labirent.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
